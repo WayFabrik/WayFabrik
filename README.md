@@ -1,6 +1,5 @@
 # WayFabrik
 
-![WayFabrik Logo](https://i.imgur.com/HG6V0ZS.jpeg)
 
 WayFabrik is a revolutionary startup dedicated to optimizing navigation and travel. The name **"WayFabrik"** combines *"Way"* (path or route) and *"Fabrik"* (factory in German), symbolizing a **"factory for creating paths"** to redefine how people move and navigate.
 
