@@ -33,7 +33,9 @@ We are a team of innovators, explorers, and problem-solvers passionate about tra
 
 ## 📬 Contact Us
 
-📧 **Email**: [wayfabrik@gmail.com](mailto:wayfabrik@gmail.com)  
+📧 **Email**: [wayfabrik@gmail.com](mailto:wayfabrik@gmail.com) 
+
+🌐 **Website**: [wayfabrik](https://wayfabrik.github.io/)
 
 📷 **Instagram**: [WayFabrik Profile](https://www.instagram.com/wayfabrik/profilecard/?igsh=ZGZiNHc5eGwxdno5)  
 
